@@ -1,0 +1,34 @@
+#!/bin/sh
+# Launch lpc21isp for SDK-2.0
+
+# constants
+devs="/dev/ttyUSB"
+
+# user vars
+fn="$1"
+dev_n="$2"
+[ "$#" -le 2 ] && shift "$#" || shift 2
+
+case "$dev_n" in
+	"?")
+		ls "$devs"*
+		exit ;;
+	"")
+		dev="`ls "$devs"* | head -n 1`" ;;
+	"z")
+		dev="`ls "$devs"* | tail -n 1`" ;;
+	*)
+		dev="$devs$dev_n" ;;
+esac
+
+# internal vars
+ok=y
+
+if [ "$fn" -a "$fn" != "." ]; then
+	echo "$fn" | grep -iq "\.hex$" && type="-hex" || type="-bin"
+	lpc21isp "$type" "$@" "$fn" "$dev" 38400 12000 || ok=n
+fi
+
+if [ $ok = y ]; then
+	lpc21isp -termonly . "$dev" 9600 12000
+fi

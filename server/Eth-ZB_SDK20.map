@@ -1,0 +1,1064 @@
+Archive member included because of file (symbol)
+
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memcpy.o)
+                              src/main.o (memcpy)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sprintf.o)
+                              src/main.o (sprintf)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sprintf.o) (_vfprintf_r)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcrtomb.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o) (_wcrtomb_r)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcsrtombs.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o) (_wcsrtombs_r)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wctomb_r.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcrtomb.o) (_wctomb_r)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wsetup.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o) (__swsetup)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o) (_dtoa_r)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fflush.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o) (fflush)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(findfp.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o) (__sinit)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(freer.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wsetup.o) (_free_r)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fvwrite.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o) (__sfvwrite)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fwalk.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fflush.o) (_fwalk)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(impure.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sprintf.o) (_impure_ptr)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(locale.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wctomb_r.o) (__lc_ctype)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(makebuf.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wsetup.o) (__smakebuf)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(malloc.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o) (free)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mallocr.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(freer.o) (__malloc_current_mallinfo)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memchr.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o) (memchr)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memmove.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fvwrite.o) (memmove)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memset.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o) (memset)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mlock.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(freer.o) (__malloc_lock)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mprec.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o) (__mprec_bigtens)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reallocr.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fvwrite.o) (_realloc_r)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sbrkr.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(freer.o) (_sbrk_r)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isinf.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o) (isinf)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isnan.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o) (isnan)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(stdio.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(findfp.o) (__sread)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strcmp.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wctomb_r.o) (strcmp)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strlen.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o) (strlen)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(syscalls.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sbrkr.o) (_sbrk)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(writer.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(stdio.o) (_write_r)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(callocr.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mprec.o) (_calloc_r)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(closer.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(stdio.o) (_close_r)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(errno.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(syscalls.o) (__errno)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fstatr.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(makebuf.o) (_fstat_r)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(lseekr.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(stdio.o) (_lseek_r)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(readr.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(stdio.o) (_read_r)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reent.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sbrkr.o) (errno)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_udivsi3.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o) (__udivsi3)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_dvmd_tls.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_udivsi3.o) (__div0)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_addsubdf3.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o) (__subdf3)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_muldivdf3.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o) (__muldf3)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_cmpdf2.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o) (__gtdf2)
+/home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_fixdfsi.o)
+                              /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o) (__fixdfsi)
+
+Allocating common symbols
+Common symbol       size              file
+
+packet_last_seq_no  0x1               src/drv/zb.o
+errno               0x4               /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reent.o)
+packet_last_dest    0x1               src/drv/zb.o
+packet_last_type    0x1               src/drv/zb.o
+packet_info         0x8               src/drv/zb.o
+my_sprintf_slots    0x24              src/main.o
+packet_buf          0x40              src/drv/zb.o
+packet_settings     0x1               src/drv/zb.o
+buf                 0x50              src/drv/serial.o
+sprintf_buf         0x64              src/drv/stdio_uart0.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x00000000         0x00040000         xr
+sram             0x40000000         0x00004000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD src/startup.o
+LOAD src/main.o
+LOAD src/init.o
+LOAD src/interrupt.o
+LOAD src/drv/stdio_uart0.o
+LOAD src/drv/systimer.o
+LOAD src/drv/serial.o
+LOAD src/drv/eth.o
+LOAD src/drv/eth_mii_phy.o
+LOAD src/drv/zb.o
+LOAD src/drv/spi.o
+LOAD src/drv/wdt.o
+LOAD src/drv/leds.o
+LOAD src/drv/sw.o
+LOAD /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a
+LOAD /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a
+LOAD /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a
+
+.text           0x00000000     0xac70
+ *start.o(.text)
+ *(.text)
+ .text          0x00000000      0x168 src/startup.o
+                0x00000000                _start
+ .text          0x00000168      0xe34 src/main.o
+                0x00000480                macs_eq
+                0x00000740                my_zb_addr
+                0x0000041c                mac_str
+                0x00000354                ip_chksum
+                0x00000758                main
+                0x00000168                print_packet
+                0x00000514                process_payload_of_udp_packet
+                0x000004bc                process_payload
+                0x000003bc                ip_str
+ .text          0x00000f9c       0xe0 src/init.o
+                0x00000f9c                init_pio
+                0x00001044                init
+ .text          0x0000107c       0x3c src/interrupt.o
+                0x000010b0                disable_interrupts
+                0x0000107c                irq_handler
+                0x000010b4                enable_interrupts
+ .text          0x000010b8       0x90 src/drv/stdio_uart0.o
+                0x00001114                kbhit0
+                0x000010b8                putchar0
+                0x000010fc                getchar0
+                0x00001118                type0
+ .text          0x00001148      0x264 src/drv/systimer.o
+                0x00001268                start_timer1
+                0x00001324                delay_mcs
+                0x000011f8                init_systimer1
+                0x0000123c                init_systimer
+                0x0000129c                dtime
+                0x00001168                init_systimer0
+                0x000012e4                delay_ms
+                0x00001158                clock_mcs
+                0x000012c0                dtime_mcs
+                0x0000127c                reset_timer1
+                0x00001148                clock
+                0x00001254                start_timer0
+ .text          0x000013ac      0x178 src/drv/serial.o
+                0x000013d0                init_serial
+                0x00001494                wsio1
+                0x00001510                rsiostat1
+                0x00001450                rsio0
+                0x00001430                wsio0
+                0x000013ac                rs485_direction
+                0x000014e0                rsio1
+                0x00001480                rsiostat0
+ .text          0x00001524      0x4fc src/drv/eth.o
+                0x00001708                read_eth_pack
+                0x00001834                write_eth_pack
+                0x00001524                init_eth
+ .text          0x00001a20      0x258 src/drv/eth_mii_phy.o
+                0x00001a20                init_eth_phy
+                0x00001b90                write_phy_reg
+                0x00001bf8                read_phy_reg
+ .text          0x00001c78     0x10bc src/drv/zb.o
+                0x00002a8c                zb_receive_packet
+                0x00001e48                CC2420_Flush_RX
+                0x00002c38                inc_zb_error
+                0x00001cfc                CC2420_RX_Empty
+                0x00001f14                CC2420_Reg_Read
+                0x00001d18                CC2420_Read
+                0x00001d40                CC2420_RX_Overrun
+                0x00002c40                zb_get_packet
+                0x00002080                CC2420_Start_RAM_Write
+                0x00002024                CC2420_Start_Reg_Write
+                0x00001cb4                get_dest_zb_addr
+                0x00002c3c                dec_zb_error
+                0x0000214c                zb_set_addr
+                0x00001fa0                CC2420_Reg_Write
+                0x00002050                CC2420_Start_Reg_Read
+                0x000020e4                CC2420_Start_RAM_Read
+                0x00001dc0                CC2420_Wait_For_Valid_RSSI
+                0x00002680                init_zb
+                0x00002c0c                CC2420_RX_Overflow
+                0x00001ec4                zb_receive_on
+                0x00001e78                zb_receive_off
+                0x00001cc4                set_dest_zb_addr
+                0x00002170                CC2420_Init
+                0x00002790                zb_send_packet
+                0x00001c78                get_self_zb_addr
+                0x00001d6c                CC2420_Strobe
+                0x00001c88                set_self_zb_addr
+                0x00001cf0                get_zb_pan_id
+ .text          0x00002d34      0x108 src/drv/spi.o
+                0x00002d34                init_spi1
+                0x00002dd4                spi1_exchange
+                0x00002dac                spi1_select
+ .text          0x00002e3c       0x84 src/drv/wdt.o
+                0x00002ea8                reset_wdt
+                0x00002e3c                init_wdt
+                0x00002e98                get_wdt_state
+ .text          0x00002ec0      0x210 src/drv/leds.o
+                0x00002ef0                init_led
+                0x00002ed8                init_led_line
+                0x00002f08                led
+                0x00002f28                leds
+                0x00002ec0                init_led_status
+ .text          0x000030d0      0x1e4 src/drv/sw.o
+                0x000030d0                init_sw
+                0x0000315c                sw4
+                0x000031e8                sw4_byte
+                0x00003124                sw3
+                0x00003140                sw3_byte
+ .text          0x000032b4       0x90 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memcpy.o)
+                0x000032b4                memcpy
+ .text          0x00003344       0xcc /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sprintf.o)
+                0x00003344                _sprintf_r
+                0x000033a4                sprintf
+ .text          0x00003410     0x1c80 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o)
+                0x00003458                _vfprintf_r
+                0x00005038                vfprintf
+ .text          0x00005090       0x7c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcrtomb.o)
+                0x00005090                _wcrtomb_r
+                0x000050e0                wcrtomb
+ .text          0x0000510c      0x160 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcsrtombs.o)
+                0x0000510c                _wcsrtombs_r
+                0x00005228                wcsrtombs
+ .text          0x0000526c      0x3e8 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wctomb_r.o)
+                0x0000526c                _wctomb_r
+ .text          0x00005654      0x108 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wsetup.o)
+                0x00005654                __swsetup
+ .text          0x0000575c     0x1570 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o)
+                0x0000594c                _dtoa_r
+ .text          0x00006ccc       0xe0 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fflush.o)
+                0x00006ccc                fflush
+ .text          0x00006dac      0x230 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(findfp.o)
+                0x00006e68                __sinit
+                0x00006e08                __sfmoreglue
+                0x00006fcc                _cleanup
+                0x00006fc0                _cleanup_r
+                0x00006ee4                __sfp
+ .text          0x00006fdc      0x338 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(freer.o)
+                0x000070e0                _free_r
+                0x00006fdc                _malloc_trim_r
+ .text          0x00007314      0x3b8 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fvwrite.o)
+                0x00007314                __sfvwrite
+ .text          0x000076cc       0xdc /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fwalk.o)
+                0x000076cc                _fwalk
+ .text          0x000077a8       0xac /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(locale.o)
+                0x000077a8                _setlocale_r
+                0x0000780c                __locale_charset
+                0x0000781c                _localeconv_r
+                0x00007828                setlocale
+                0x00007844                localeconv
+ .text          0x00007854      0x158 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(makebuf.o)
+                0x00007854                __smakebuf
+ .text          0x000079ac       0x28 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(malloc.o)
+                0x000079ac                malloc
+                0x000079c0                free
+ .text          0x000079d4      0x6a0 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mallocr.o)
+                0x000079d4                _malloc_r
+ .text          0x00008074       0xd8 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memchr.o)
+                0x00008074                memchr
+ .text          0x0000814c       0xd4 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memmove.o)
+                0x0000814c                memmove
+ .text          0x00008220       0x78 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memset.o)
+                0x00008220                memset
+ .text          0x00008298        0x8 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mlock.o)
+                0x0000829c                __malloc_unlock
+                0x00008298                __malloc_lock
+ .text          0x000082a0      0xc20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mprec.o)
+                0x00008e58                _mprec_log10
+                0x000084f8                _hi0bits
+                0x000082a0                _Balloc
+                0x00008cb4                _d2b
+                0x00008610                _multiply
+                0x00008dd8                _ratio
+                0x00008420                _s2b
+                0x000085e8                _i2b
+                0x00008554                _lo0bits
+                0x00008a10                __mcmp
+                0x00008800                _pow5mult
+                0x00008b98                _ulp
+                0x00008c00                _b2d
+                0x00008350                _multadd
+                0x00008a64                __mdiff
+                0x00008914                _lshift
+                0x00008334                _Bfree
+ .text          0x00008ec0      0x4c0 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reallocr.o)
+                0x00008ec0                _realloc_r
+ .text          0x00009380       0x40 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sbrkr.o)
+                0x00009380                _sbrk_r
+ .text          0x000093c0       0x3c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isinf.o)
+                0x000093c0                isinf
+ .text          0x000093fc       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isnan.o)
+                0x000093fc                isnan
+ .text          0x0000941c      0x11c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(stdio.o)
+                0x000094d4                __sseek
+                0x0000941c                __sread
+                0x00009524                __sclose
+                0x00009468                __swrite
+ .text          0x00009538       0xa4 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strcmp.o)
+                0x00009538                strcmp
+ .text          0x000095dc       0x60 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strlen.o)
+                0x000095dc                strlen
+ .text          0x0000963c      0x818 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(syscalls.o)
+                0x00009c78                _getpid
+                0x00009774                initialise_monitor_handles
+                0x00009e04                isatty
+                0x00009cdc                _fstat
+                0x00009ba8                _open
+                0x00009c80                _sbrk
+                0x00009d7c                _raise
+                0x00009dc8                _times
+                0x00009d14                _stat
+                0x00009a18                _lseek
+                0x00009d6c                _link
+                0x00009a30                _swiwrite
+                0x00009e34                _rename
+                0x00009938                _swilseek
+                0x00009bc8                _swiclose
+                0x00009af4                _swiopen
+                0x00009d74                _unlink
+                0x00009a7c                _write
+                0x00009c50                _kill
+                0x00009d80                _gettimeofday
+                0x000098c8                _read
+                0x00009c30                _exit
+                0x00009e0c                _system
+                0x0000987c                _swiread
+                0x00009c18                _close
+ .text          0x00009e54       0x48 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(writer.o)
+                0x00009e54                _write_r
+ .text          0x00009e9c       0x98 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(callocr.o)
+                0x00009e9c                _calloc_r
+ .text          0x00009f34       0x40 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(closer.o)
+                0x00009f34                _close_r
+ .text          0x00009f74       0x10 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(errno.o)
+                0x00009f74                __errno
+ .text          0x00009f84       0x44 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fstatr.o)
+                0x00009f84                _fstat_r
+ .text          0x00009fc8       0x48 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(lseekr.o)
+                0x00009fc8                _lseek_r
+ .text          0x0000a010       0x48 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(readr.o)
+                0x0000a010                _read_r
+ .text          0x0000a058      0x1ac /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reent.o)
+                0x0000a058                cleanup_glue
+                0x0000a090                _reclaim_reent
+                0x0000a190                _wrapup_reent
+ .text          0x0000a204       0xf8 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_udivsi3.o)
+                0x0000a204                __udivsi3
+ .text          0x0000a2fc        0x4 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_dvmd_tls.o)
+                0x0000a2fc                __div0
+ .text          0x0000a300      0x388 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_addsubdf3.o)
+                0x0000a610                __floatsidf
+                0x0000a63c                __extendsfdf2
+                0x0000a304                __adddf3
+                0x0000a5e8                __floatunsidf
+                0x0000a300                __subdf3
+ .text          0x0000a688      0x4c4 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_muldivdf3.o)
+                0x0000a8e0                __divdf3
+                0x0000a688                __muldf3
+ .text          0x0000ab4c       0xa4 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_cmpdf2.o)
+                0x0000ab5c                __cmpdf2
+                0x0000ab5c                __eqdf2
+                0x0000ab4c                __gtdf2
+                0x0000ab54                __ltdf2
+                0x0000ab54                __ledf2
+                0x0000ab5c                __nedf2
+                0x0000ab4c                __gedf2
+ .text          0x0000abf0       0x80 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_fixdfsi.o)
+                0x0000abf0                __fixdfsi
+ *(.glue_7t)
+ *(.glue_7)
+                0x0000ac70                . = ALIGN (0x4)
+
+.rodata         0x0000ac70      0x180
+ *(.rodata)
+ .rodata        0x0000ac70        0xc src/main.o
+ .rodata        0x0000ac7c       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o)
+ .rodata        0x0000ac9c       0x30 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(locale.o)
+ .rodata        0x0000accc      0x124 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mprec.o)
+                0x0000accc                __mprec_tinytens
+                0x0000ad1c                __mprec_tens
+                0x0000acf4                __mprec_bigtens
+
+.rodata.str1.4  0x0000adf0      0x980
+ .rodata.str1.4
+                0x0000adf0      0x354 src/main.o
+                                0x364 (size before relaxing)
+ .rodata.str1.4
+                0x0000b144      0x15f src/drv/eth.o
+                                0x160 (size before relaxing)
+ *fill*         0x0000b2a3        0x1 00
+ .rodata.str1.4
+                0x0000b2a4      0x434 src/drv/zb.o
+ .rodata.str1.4
+                0x0000b6d8       0x58 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o)
+                                 0x5c (size before relaxing)
+ .rodata.str1.4
+                0x0000b730       0x1e /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wctomb_r.o)
+                                 0x20 (size before relaxing)
+ *fill*         0x0000b74e        0x2 00
+ .rodata.str1.4
+                0x0000b750        0x9 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o)
+                                 0x14 (size before relaxing)
+ *fill*         0x0000b759        0x3 00
+ .rodata.str1.4
+                0x0000b75c        0x2 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x0000b75e        0x2 00
+ .rodata.str1.4
+                0x0000b760        0xb /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(locale.o)
+                                 0x18 (size before relaxing)
+ *fill*         0x0000b76b        0x1 00
+ .rodata.str1.4
+                0x0000b76c        0x4 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(syscalls.o)
+                0x0000b770                . = ALIGN (0x4)
+                0x0000b770                _etext = .
+                0x0000b770                PROVIDE (etext, .)
+
+.data           0x40000000      0x7ac load address 0x0000b770
+                0x40000000                _data = .
+ *(.data)
+ .data          0x40000000        0x4 src/drv/eth.o
+                0x40000000                eth_reg
+ .data          0x40000004        0x4 src/drv/zb.o
+                0x40000006                zb_self_addr
+                0x40000004                zb_dest_addr
+ .data          0x40000008      0x380 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(impure.o)
+                0x40000008                _impure_ptr
+ .data          0x40000388       0x14 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(locale.o)
+                0x40000394                __mb_cur_max
+                0x40000388                __lc_ctype
+ .data          0x4000039c      0x410 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mallocr.o)
+                0x4000039c                __malloc_sbrk_base
+                0x400003a4                __malloc_av_
+                0x400003a0                __malloc_trim_threshold
+                0x400007ac                . = ALIGN (0x4)
+                0x400007ac                _edata = .
+                0x400007ac                PROVIDE (edata, .)
+
+.bss            0x400007ac      0x22c
+                0x400007ac                _bss = .
+ *(.bss)
+ .bss           0x400007ac        0x8 src/drv/systimer.o
+ .bss           0x400007b4        0x2 src/drv/zb.o
+                0x400007b4                zb_error
+ .bss           0x400007b6        0x1 src/drv/wdt.o
+ *fill*         0x400007b7        0x1 00
+ .bss           0x400007b8        0x4 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(findfp.o)
+ .bss           0x400007bc        0xc /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(locale.o)
+                0x400007c4                __nlocale_changed
+                0x400007c0                __mlocale_changed
+                0x400007bc                _PathLocale
+ .bss           0x400007c8       0x34 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mallocr.o)
+                0x400007f8                __malloc_top_pad
+                0x400007f4                __malloc_max_sbrked_mem
+                0x400007c8                __malloc_current_mallinfo
+                0x400007f0                __malloc_max_total_mem
+ .bss           0x400007fc       0xb4 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(syscalls.o)
+ *(COMMON)
+ COMMON         0x400008b0       0x24 src/main.o
+                                  0x0 (size before relaxing)
+                0x400008b0                my_sprintf_slots
+ COMMON         0x400008d4       0x64 src/drv/stdio_uart0.o
+                                  0x0 (size before relaxing)
+                0x400008d4                sprintf_buf
+ COMMON         0x40000938       0x50 src/drv/serial.o
+                                  0x0 (size before relaxing)
+                0x40000938                buf
+ COMMON         0x40000988       0x4c src/drv/zb.o
+                                  0x0 (size before relaxing)
+                0x40000988                packet_last_seq_no
+                0x40000989                packet_last_dest
+                0x4000098a                packet_last_type
+                0x4000098b                packet_info
+                0x40000993                packet_buf
+                0x400009d3                packet_settings
+ COMMON         0x400009d4        0x4 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reent.o)
+                                  0x0 (size before relaxing)
+                0x400009d4                errno
+                0x400009d8                . = ALIGN (0x4)
+                0x400009d8                _ebss = .
+                0x400009d8                _end = .
+                0x400009d8                PROVIDE (end, .)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(stab.indexstr)
+
+.comment        0x00000000      0x3a8
+ *(.comment)
+ .comment       0x00000000       0x12 src/main.o
+ .comment       0x00000012       0x12 src/init.o
+ .comment       0x00000024       0x12 src/interrupt.o
+ .comment       0x00000036       0x12 src/drv/stdio_uart0.o
+ .comment       0x00000048       0x12 src/drv/systimer.o
+ .comment       0x0000005a       0x12 src/drv/serial.o
+ .comment       0x0000006c       0x12 src/drv/eth.o
+ .comment       0x0000007e       0x12 src/drv/eth_mii_phy.o
+ .comment       0x00000090       0x12 src/drv/zb.o
+ .comment       0x000000a2       0x12 src/drv/spi.o
+ .comment       0x000000b4       0x12 src/drv/wdt.o
+ .comment       0x000000c6       0x12 src/drv/leds.o
+ .comment       0x000000d8       0x12 src/drv/sw.o
+ .comment       0x000000ea       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memcpy.o)
+ .comment       0x000000fc       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sprintf.o)
+ .comment       0x0000010e       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o)
+ .comment       0x00000120       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcrtomb.o)
+ .comment       0x00000132       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcsrtombs.o)
+ .comment       0x00000144       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wctomb_r.o)
+ .comment       0x00000156       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wsetup.o)
+ .comment       0x00000168       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o)
+ .comment       0x0000017a       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fflush.o)
+ .comment       0x0000018c       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(findfp.o)
+ .comment       0x0000019e       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(freer.o)
+ .comment       0x000001b0       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fvwrite.o)
+ .comment       0x000001c2       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fwalk.o)
+ .comment       0x000001d4       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(impure.o)
+ .comment       0x000001e6       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(locale.o)
+ .comment       0x000001f8       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(makebuf.o)
+ .comment       0x0000020a       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(malloc.o)
+ .comment       0x0000021c       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mallocr.o)
+ .comment       0x0000022e       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memchr.o)
+ .comment       0x00000240       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memmove.o)
+ .comment       0x00000252       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memset.o)
+ .comment       0x00000264       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mlock.o)
+ .comment       0x00000276       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mprec.o)
+ .comment       0x00000288       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reallocr.o)
+ .comment       0x0000029a       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sbrkr.o)
+ .comment       0x000002ac       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isinf.o)
+ .comment       0x000002be       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isnan.o)
+ .comment       0x000002d0       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(stdio.o)
+ .comment       0x000002e2       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strcmp.o)
+ .comment       0x000002f4       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strlen.o)
+ .comment       0x00000306       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(syscalls.o)
+ .comment       0x00000318       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(writer.o)
+ .comment       0x0000032a       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(callocr.o)
+ .comment       0x0000033c       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(closer.o)
+ .comment       0x0000034e       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(errno.o)
+ .comment       0x00000360       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fstatr.o)
+ .comment       0x00000372       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(lseekr.o)
+ .comment       0x00000384       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(readr.o)
+ .comment       0x00000396       0x12 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reent.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x580
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memcpy.o)
+ .debug_aranges
+                0x00000020       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sprintf.o)
+ .debug_aranges
+                0x00000040       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o)
+ .debug_aranges
+                0x00000060       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcrtomb.o)
+ .debug_aranges
+                0x00000080       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcsrtombs.o)
+ .debug_aranges
+                0x000000a0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wctomb_r.o)
+ .debug_aranges
+                0x000000c0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wsetup.o)
+ .debug_aranges
+                0x000000e0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o)
+ .debug_aranges
+                0x00000100       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fflush.o)
+ .debug_aranges
+                0x00000120       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(findfp.o)
+ .debug_aranges
+                0x00000140       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(freer.o)
+ .debug_aranges
+                0x00000160       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fvwrite.o)
+ .debug_aranges
+                0x00000180       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fwalk.o)
+ .debug_aranges
+                0x000001a0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(locale.o)
+ .debug_aranges
+                0x000001c0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(makebuf.o)
+ .debug_aranges
+                0x000001e0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(malloc.o)
+ .debug_aranges
+                0x00000200       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mallocr.o)
+ .debug_aranges
+                0x00000220       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memchr.o)
+ .debug_aranges
+                0x00000240       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memmove.o)
+ .debug_aranges
+                0x00000260       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memset.o)
+ .debug_aranges
+                0x00000280       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mlock.o)
+ .debug_aranges
+                0x000002a0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mprec.o)
+ .debug_aranges
+                0x000002c0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reallocr.o)
+ .debug_aranges
+                0x000002e0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sbrkr.o)
+ .debug_aranges
+                0x00000300       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isinf.o)
+ .debug_aranges
+                0x00000320       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isnan.o)
+ .debug_aranges
+                0x00000340       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(stdio.o)
+ .debug_aranges
+                0x00000360       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strcmp.o)
+ .debug_aranges
+                0x00000380       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strlen.o)
+ .debug_aranges
+                0x000003a0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(syscalls.o)
+ .debug_aranges
+                0x000003c0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(writer.o)
+ .debug_aranges
+                0x000003e0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(callocr.o)
+ .debug_aranges
+                0x00000400       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(closer.o)
+ .debug_aranges
+                0x00000420       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(errno.o)
+ .debug_aranges
+                0x00000440       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fstatr.o)
+ .debug_aranges
+                0x00000460       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(lseekr.o)
+ .debug_aranges
+                0x00000480       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(readr.o)
+ .debug_aranges
+                0x000004a0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reent.o)
+ .debug_aranges
+                0x000004c0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x000004e0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x00000500       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_addsubdf3.o)
+ .debug_aranges
+                0x00000520       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_muldivdf3.o)
+ .debug_aranges
+                0x00000540       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_cmpdf2.o)
+ .debug_aranges
+                0x00000560       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_fixdfsi.o)
+
+.debug_pubnames
+                0x00000000      0x91b
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x1d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memcpy.o)
+ .debug_pubnames
+                0x0000001d       0x2d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sprintf.o)
+ .debug_pubnames
+                0x0000004a       0x2f /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o)
+ .debug_pubnames
+                0x00000079       0x2d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcrtomb.o)
+ .debug_pubnames
+                0x000000a6       0x31 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcsrtombs.o)
+ .debug_pubnames
+                0x000000d7       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wctomb_r.o)
+ .debug_pubnames
+                0x000000f7       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wsetup.o)
+ .debug_pubnames
+                0x00000117       0x1e /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o)
+ .debug_pubnames
+                0x00000135       0x1d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fflush.o)
+ .debug_pubnames
+                0x00000152       0x55 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(findfp.o)
+ .debug_pubnames
+                0x000001a7       0x31 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(freer.o)
+ .debug_pubnames
+                0x000001d8       0x21 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fvwrite.o)
+ .debug_pubnames
+                0x000001f9       0x1d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fwalk.o)
+ .debug_pubnames
+                0x00000216       0x22 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(impure.o)
+ .debug_pubnames
+                0x00000238       0xc3 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(locale.o)
+ .debug_pubnames
+                0x000002fb       0x21 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(makebuf.o)
+ .debug_pubnames
+                0x0000031c       0x26 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(malloc.o)
+ .debug_pubnames
+                0x00000342       0xce /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mallocr.o)
+ .debug_pubnames
+                0x00000410       0x1d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memchr.o)
+ .debug_pubnames
+                0x0000042d       0x1e /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memmove.o)
+ .debug_pubnames
+                0x0000044b       0x1d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memset.o)
+ .debug_pubnames
+                0x00000468       0x38 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mlock.o)
+ .debug_pubnames
+                0x000004a0      0x112 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mprec.o)
+ .debug_pubnames
+                0x000005b2       0x21 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reallocr.o)
+ .debug_pubnames
+                0x000005d3       0x1e /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sbrkr.o)
+ .debug_pubnames
+                0x000005f1       0x1c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isinf.o)
+ .debug_pubnames
+                0x0000060d       0x1c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isnan.o)
+ .debug_pubnames
+                0x00000629       0x44 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(stdio.o)
+ .debug_pubnames
+                0x0000066d       0x1d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strcmp.o)
+ .debug_pubnames
+                0x0000068a       0x1d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strlen.o)
+ .debug_pubnames
+                0x000006a7      0x14a /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(syscalls.o)
+ .debug_pubnames
+                0x000007f1       0x1f /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(writer.o)
+ .debug_pubnames
+                0x00000810       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(callocr.o)
+ .debug_pubnames
+                0x00000830       0x1f /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(closer.o)
+ .debug_pubnames
+                0x0000084f       0x1e /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(errno.o)
+ .debug_pubnames
+                0x0000086d       0x1f /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fstatr.o)
+ .debug_pubnames
+                0x0000088c       0x1f /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(lseekr.o)
+ .debug_pubnames
+                0x000008ab       0x1e /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(readr.o)
+ .debug_pubnames
+                0x000008c9       0x52 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reent.o)
+
+.debug_info     0x00000000    0x15a21
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0xfc /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memcpy.o)
+ .debug_info    0x000000fc      0x9bc /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sprintf.o)
+ .debug_info    0x00000ab8     0x109f /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o)
+ .debug_info    0x00001b57      0x9a9 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcrtomb.o)
+ .debug_info    0x00002500      0xa30 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcsrtombs.o)
+ .debug_info    0x00002f30      0x9bc /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wctomb_r.o)
+ .debug_info    0x000038ec      0x904 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wsetup.o)
+ .debug_info    0x000041f0      0xd0c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o)
+ .debug_info    0x00004efc      0x925 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fflush.o)
+ .debug_info    0x00005821      0xa2d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(findfp.o)
+ .debug_info    0x0000624e      0xb61 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(freer.o)
+ .debug_info    0x00006daf      0xa20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fvwrite.o)
+ .debug_info    0x000077cf      0x952 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fwalk.o)
+ .debug_info    0x00008121      0x8e0 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(impure.o)
+ .debug_info    0x00008a01      0xb40 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(locale.o)
+ .debug_info    0x00009541      0xaa1 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(makebuf.o)
+ .debug_info    0x00009fe2      0x924 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(malloc.o)
+ .debug_info    0x0000a906      0xc63 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mallocr.o)
+ .debug_info    0x0000b569      0x123 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memchr.o)
+ .debug_info    0x0000b68c      0x12d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memmove.o)
+ .debug_info    0x0000b7b9      0x102 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memset.o)
+ .debug_info    0x0000b8bb      0x901 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mlock.o)
+ .debug_info    0x0000c1bc     0x1235 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mprec.o)
+ .debug_info    0x0000d3f1      0xb39 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reallocr.o)
+ .debug_info    0x0000df2a      0x92c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sbrkr.o)
+ .debug_info    0x0000e856      0x147 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isinf.o)
+ .debug_info    0x0000e99d       0xca /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isnan.o)
+ .debug_info    0x0000ea67      0xa20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(stdio.o)
+ .debug_info    0x0000f487       0xd0 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strcmp.o)
+ .debug_info    0x0000f557       0xd2 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strlen.o)
+ .debug_info    0x0000f629     0x1542 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(syscalls.o)
+ .debug_info    0x00010b6b      0x952 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(writer.o)
+ .debug_info    0x000114bd      0x9c5 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(callocr.o)
+ .debug_info    0x00011e82      0x91b /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(closer.o)
+ .debug_info    0x0001279d      0x8e8 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(errno.o)
+ .debug_info    0x00013085      0xa91 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fstatr.o)
+ .debug_info    0x00013b16      0x940 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(lseekr.o)
+ .debug_info    0x00014456      0x94b /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(readr.o)
+ .debug_info    0x00014da1      0x9cc /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reent.o)
+ .debug_info    0x0001576d       0x74 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_udivsi3.o)
+ .debug_info    0x000157e1       0x74 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x00015855       0x73 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_addsubdf3.o)
+ .debug_info    0x000158c8       0x73 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_muldivdf3.o)
+ .debug_info    0x0001593b       0x73 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_cmpdf2.o)
+ .debug_info    0x000159ae       0x73 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_fixdfsi.o)
+
+.debug_abbrev   0x00000000     0x3ba9
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x99 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memcpy.o)
+ .debug_abbrev  0x00000099      0x191 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sprintf.o)
+ .debug_abbrev  0x0000022a      0x30f /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o)
+ .debug_abbrev  0x00000539      0x18e /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcrtomb.o)
+ .debug_abbrev  0x000006c7      0x195 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcsrtombs.o)
+ .debug_abbrev  0x0000085c      0x1b8 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wctomb_r.o)
+ .debug_abbrev  0x00000a14      0x170 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wsetup.o)
+ .debug_abbrev  0x00000b84      0x1fc /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o)
+ .debug_abbrev  0x00000d80      0x17f /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fflush.o)
+ .debug_abbrev  0x00000eff      0x1e7 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(findfp.o)
+ .debug_abbrev  0x000010e6      0x1d9 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(freer.o)
+ .debug_abbrev  0x000012bf      0x1a9 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fvwrite.o)
+ .debug_abbrev  0x00001468      0x19c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fwalk.o)
+ .debug_abbrev  0x00001604      0x157 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(impure.o)
+ .debug_abbrev  0x0000175b      0x1de /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(locale.o)
+ .debug_abbrev  0x00001939      0x18c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(makebuf.o)
+ .debug_abbrev  0x00001ac5      0x187 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(malloc.o)
+ .debug_abbrev  0x00001c4c      0x214 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mallocr.o)
+ .debug_abbrev  0x00001e60       0xa8 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memchr.o)
+ .debug_abbrev  0x00001f08       0x99 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memmove.o)
+ .debug_abbrev  0x00001fa1       0x9a /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memset.o)
+ .debug_abbrev  0x0000203b      0x16e /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mlock.o)
+ .debug_abbrev  0x000021a9      0x221 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mprec.o)
+ .debug_abbrev  0x000023ca      0x1cc /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reallocr.o)
+ .debug_abbrev  0x00002596      0x1a1 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sbrkr.o)
+ .debug_abbrev  0x00002737       0xd4 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isinf.o)
+ .debug_abbrev  0x0000280b       0x79 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isnan.o)
+ .debug_abbrev  0x00002884      0x19b /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(stdio.o)
+ .debug_abbrev  0x00002a1f       0x71 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strcmp.o)
+ .debug_abbrev  0x00002a90       0x7e /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strlen.o)
+ .debug_abbrev  0x00002b0e      0x349 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(syscalls.o)
+ .debug_abbrev  0x00002e57      0x19a /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(writer.o)
+ .debug_abbrev  0x00002ff1      0x1af /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(callocr.o)
+ .debug_abbrev  0x000031a0      0x195 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(closer.o)
+ .debug_abbrev  0x00003335      0x15f /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(errno.o)
+ .debug_abbrev  0x00003494      0x1a4 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fstatr.o)
+ .debug_abbrev  0x00003638      0x1a4 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(lseekr.o)
+ .debug_abbrev  0x000037dc      0x195 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(readr.o)
+ .debug_abbrev  0x00003971      0x1c0 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reent.o)
+ .debug_abbrev  0x00003b31       0x14 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x00003b45       0x14 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x00003b59       0x14 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_addsubdf3.o)
+ .debug_abbrev  0x00003b6d       0x14 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_muldivdf3.o)
+ .debug_abbrev  0x00003b81       0x14 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_cmpdf2.o)
+ .debug_abbrev  0x00003b95       0x14 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_fixdfsi.o)
+
+.debug_line     0x00000000     0x4078
+ *(.debug_line)
+ .debug_line    0x00000000       0xc9 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memcpy.o)
+ .debug_line    0x000000c9      0x184 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sprintf.o)
+ .debug_line    0x0000024d      0x51f /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o)
+ .debug_line    0x0000076c      0x15f /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcrtomb.o)
+ .debug_line    0x000008cb      0x182 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcsrtombs.o)
+ .debug_line    0x00000a4d      0x1fc /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wctomb_r.o)
+ .debug_line    0x00000c49      0x164 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wsetup.o)
+ .debug_line    0x00000dad      0x449 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o)
+ .debug_line    0x000011f6      0x173 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fflush.o)
+ .debug_line    0x00001369      0x1bb /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(findfp.o)
+ .debug_line    0x00001524      0x19d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(freer.o)
+ .debug_line    0x000016c1      0x1e9 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fvwrite.o)
+ .debug_line    0x000018aa      0x15d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fwalk.o)
+ .debug_line    0x00001a07       0xef /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(impure.o)
+ .debug_line    0x00001af6      0x161 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(locale.o)
+ .debug_line    0x00001c57      0x190 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(makebuf.o)
+ .debug_line    0x00001de7      0x107 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(malloc.o)
+ .debug_line    0x00001eee      0x22a /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mallocr.o)
+ .debug_line    0x00002118       0xd8 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memchr.o)
+ .debug_line    0x000021f0       0xd9 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memmove.o)
+ .debug_line    0x000022c9       0xc7 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memset.o)
+ .debug_line    0x00002390       0xff /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mlock.o)
+ .debug_line    0x0000248f      0x38c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mprec.o)
+ .debug_line    0x0000281b      0x1b9 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reallocr.o)
+ .debug_line    0x000029d4      0x105 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sbrkr.o)
+ .debug_line    0x00002ad9       0xf4 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isinf.o)
+ .debug_line    0x00002bcd       0xae /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isnan.o)
+ .debug_line    0x00002c7b      0x180 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(stdio.o)
+ .debug_line    0x00002dfb       0x7a /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strcmp.o)
+ .debug_line    0x00002e75       0xb6 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strlen.o)
+ .debug_line    0x00002f2b      0x2e6 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(syscalls.o)
+ .debug_line    0x00003211      0x106 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(writer.o)
+ .debug_line    0x00003317      0x11b /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(callocr.o)
+ .debug_line    0x00003432      0x106 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(closer.o)
+ .debug_line    0x00003538       0xfe /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(errno.o)
+ .debug_line    0x00003636      0x15b /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fstatr.o)
+ .debug_line    0x00003791      0x106 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(lseekr.o)
+ .debug_line    0x00003897      0x105 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(readr.o)
+ .debug_line    0x0000399c      0x141 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reent.o)
+ .debug_line    0x00003add       0x7d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_udivsi3.o)
+ .debug_line    0x00003b5a       0x5a /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x00003bb4      0x197 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_addsubdf3.o)
+ .debug_line    0x00003d4b      0x200 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_muldivdf3.o)
+ .debug_line    0x00003f4b       0xb5 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_cmpdf2.o)
+ .debug_line    0x00004000       0x78 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/libgcc.a(_fixdfsi.o)
+
+.debug_frame    0x00000000      0xefc
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x28 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memcpy.o)
+ .debug_frame   0x00000028       0x5c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sprintf.o)
+ .debug_frame   0x00000084       0x84 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o)
+ .debug_frame   0x00000108       0x4c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcrtomb.o)
+ .debug_frame   0x00000154       0x60 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcsrtombs.o)
+ .debug_frame   0x000001b4       0x34 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wctomb_r.o)
+ .debug_frame   0x000001e8       0x34 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wsetup.o)
+ .debug_frame   0x0000021c       0x68 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o)
+ .debug_frame   0x00000284       0x34 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fflush.o)
+ .debug_frame   0x000002b8       0xac /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(findfp.o)
+ .debug_frame   0x00000364       0x64 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(freer.o)
+ .debug_frame   0x000003c8       0x3c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fvwrite.o)
+ .debug_frame   0x00000404       0x3c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fwalk.o)
+ .debug_frame   0x00000440       0x74 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(locale.o)
+ .debug_frame   0x000004b4       0x38 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(makebuf.o)
+ .debug_frame   0x000004ec       0x30 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(malloc.o)
+ .debug_frame   0x0000051c       0x3c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mallocr.o)
+ .debug_frame   0x00000558       0x28 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memchr.o)
+ .debug_frame   0x00000580       0x28 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memmove.o)
+ .debug_frame   0x000005a8       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memset.o)
+ .debug_frame   0x000005c8       0x30 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mlock.o)
+ .debug_frame   0x000005f8      0x240 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mprec.o)
+ .debug_frame   0x00000838       0x3c /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reallocr.o)
+ .debug_frame   0x00000874       0x34 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sbrkr.o)
+ .debug_frame   0x000008a8       0x28 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isinf.o)
+ .debug_frame   0x000008d0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isnan.o)
+ .debug_frame   0x000008f0       0x88 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(stdio.o)
+ .debug_frame   0x00000978       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strcmp.o)
+ .debug_frame   0x00000998       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strlen.o)
+ .debug_frame   0x000009b8      0x370 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(syscalls.o)
+ .debug_frame   0x00000d28       0x34 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(writer.o)
+ .debug_frame   0x00000d5c       0x30 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(callocr.o)
+ .debug_frame   0x00000d8c       0x34 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(closer.o)
+ .debug_frame   0x00000dc0       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(errno.o)
+ .debug_frame   0x00000de0       0x34 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fstatr.o)
+ .debug_frame   0x00000e14       0x34 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(lseekr.o)
+ .debug_frame   0x00000e48       0x34 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(readr.o)
+ .debug_frame   0x00000e7c       0x80 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reent.o)
+
+.debug_str      0x00000000     0x197e
+ *(.debug_str)
+ .debug_str     0x00000000       0xae /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memcpy.o)
+                                 0xd5 (size before relaxing)
+ .debug_str     0x000000ae      0x408 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sprintf.o)
+                                0x4a6 (size before relaxing)
+ .debug_str     0x000004b6      0x1b5 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o)
+                                0x666 (size before relaxing)
+ .debug_str     0x0000066b       0x8f /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcrtomb.o)
+                                0x4ac (size before relaxing)
+ .debug_str     0x000006fa       0x5d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcsrtombs.o)
+                                0x4c1 (size before relaxing)
+ .debug_str     0x00000757       0x62 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wctomb_r.o)
+                                0x4ad (size before relaxing)
+ .debug_str     0x000007b9       0x42 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wsetup.o)
+                                0x485 (size before relaxing)
+ .debug_str     0x000007fb      0x100 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(dtoa.o)
+                                0x570 (size before relaxing)
+ .debug_str     0x000008fb       0x3f /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fflush.o)
+                                0x482 (size before relaxing)
+ .debug_str     0x0000093a       0x64 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(findfp.o)
+                                0x4c5 (size before relaxing)
+ .debug_str     0x0000099e      0x159 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(freer.o)
+                                0x5be (size before relaxing)
+ .debug_str     0x00000af7       0x5a /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fvwrite.o)
+                                0x4e0 (size before relaxing)
+ .debug_str     0x00000b51       0x47 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fwalk.o)
+                                0x48a (size before relaxing)
+ .debug_str     0x00000b98       0x7e /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(impure.o)
+                                0x482 (size before relaxing)
+ .debug_str     0x00000c16      0x1c7 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(locale.o)
+                                0x624 (size before relaxing)
+ .debug_str     0x00000ddd      0x112 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(makebuf.o)
+                                0x56c (size before relaxing)
+ .debug_str     0x00000eef       0x45 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(malloc.o)
+                                0x497 (size before relaxing)
+ .debug_str     0x00000f34       0xe9 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mallocr.o)
+                                0x66c (size before relaxing)
+ .debug_str     0x0000101d       0x5a /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memchr.o)
+                                0x12c (size before relaxing)
+ .debug_str     0x00001077       0x4b /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memmove.o)
+                                0x13e (size before relaxing)
+ .debug_str     0x000010c2       0x4d /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(memset.o)
+                                0x11f (size before relaxing)
+ .debug_str     0x0000110f       0x56 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mlock.o)
+                                0x489 (size before relaxing)
+ .debug_str     0x00001165       0xd1 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mprec.o)
+                                0x558 (size before relaxing)
+ .debug_str     0x00001236       0x61 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reallocr.o)
+                                0x53e (size before relaxing)
+ .debug_str     0x00001297       0x54 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(sbrkr.o)
+                                0x48c (size before relaxing)
+ .debug_str     0x000012eb       0xa3 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isinf.o)
+                                0x14a (size before relaxing)
+ .debug_str     0x0000138e       0x3e /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(s_isnan.o)
+                                0x117 (size before relaxing)
+ .debug_str     0x000013cc       0x67 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(stdio.o)
+                                0x4b8 (size before relaxing)
+ .debug_str     0x00001433       0x40 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strcmp.o)
+                                0x104 (size before relaxing)
+ .debug_str     0x00001473       0x46 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(strlen.o)
+                                0x11e (size before relaxing)
+ .debug_str     0x000014b9      0x270 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(syscalls.o)
+                                0x78b (size before relaxing)
+ .debug_str     0x00001729       0x4a /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(writer.o)
+                                0x489 (size before relaxing)
+ .debug_str     0x00001773       0x19 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(callocr.o)
+                                0x4bd (size before relaxing)
+ .debug_str     0x0000178c       0x41 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(closer.o)
+                                0x479 (size before relaxing)
+ .debug_str     0x000017cd       0x79 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(errno.o)
+                                0x47d (size before relaxing)
+ .debug_str     0x00001846       0x47 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(fstatr.o)
+                                0x554 (size before relaxing)
+ .debug_str     0x0000188d       0x41 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(lseekr.o)
+                                0x48e (size before relaxing)
+ .debug_str     0x000018ce       0x3f /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(readr.o)
+                                0x487 (size before relaxing)
+ .debug_str     0x0000190d       0x71 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reent.o)
+                                0x4ba (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+OUTPUT(Eth-ZB_SDK20 elf32-littlearm)
+
+.debug_ranges   0x00000000      0x1d0
+ .debug_ranges  0x00000000       0x78 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(vfprintf.o)
+ .debug_ranges  0x00000078       0x18 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wcsrtombs.o)
+ .debug_ranges  0x00000090       0x38 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(wctomb_r.o)
+ .debug_ranges  0x000000c8       0x20 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(mallocr.o)
+ .debug_ranges  0x000000e8       0xa8 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(reallocr.o)
+ .debug_ranges  0x00000190       0x40 /home/k/kva/ipu/sdk20/gnuarm/gnuarm-3.4.3/bin/../lib/gcc/arm-elf/3.4.3/../../../../arm-elf/lib/libc.a(callocr.o)
